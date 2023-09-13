@@ -5,10 +5,11 @@ The dataset for this project can be found on the UCI Machine Learning Repository
 
 Description of Categories
 
-FRESH: annual spending (m.u.) on fresh products (Continuous)
-MILK: annual spending (m.u.) on milk products (Continuous)
-GROCERY: annual spending (m.u.) on grocery products (Continuous)
-FROZEN: annual spending (m.u.)on frozen products (Continuous)
-DETERGENTS_PAPER: annual spending (m.u.) on detergents and paper products (Continuous)
-DELICATESSEN: annual spending (m.u.) on and delicatessen products (Continuous)
+# FRESH: annual spending (m.u.) on fresh products (Continuous)
+# MILK: annual spending (m.u.) on milk products (Continuous)
+# GROCERY: annual spending (m.u.) on grocery products (Continuous)
+# FROZEN: annual spending (m.u.)on frozen products (Continuous)
+# DETERGENTS_PAPER: annual spending (m.u.) on detergents and paper products (Continuous)
+# DELICATESSEN: annual spending (m.u.) on and delicatessen products (Continuous)
+
 "A store selling cold cuts, cheeses, and a variety of salads, as well as a selection of unusual or foreign prepared foods."
